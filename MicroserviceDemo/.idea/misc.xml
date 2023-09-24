@@ -1,0 +1,14 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/apiGateway" />
+    <file type="web" url="file://$PROJECT_DIR$/configServer" />
+    <file type="web" url="file://$PROJECT_DIR$/Entrepreneur" />
+    <file type="web" url="file://$PROJECT_DIR$/Investor" />
+    <file type="web" url="file://$PROJECT_DIR$/ProjectIdea" />
+    <file type="web" url="file://$PROJECT_DIR$/serviceRegistry" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
